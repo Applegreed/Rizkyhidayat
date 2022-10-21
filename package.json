@@ -1,0 +1,23 @@
+{
+  "name": "rizkyhidayat",
+  "version": "1.0.0",
+  "description": "I am a student of DKV Trisakti University class of 2020 who focuses on the field of Multimedia, I study photography, videography, and Graphic Design. This website is used to display the works I have created.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Applegreed/Rizkyhidayat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Applegreed/Rizkyhidayat/issues"
+  },
+  "homepage": "https://github.com/Applegreed/Rizkyhidayat#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.0"
+  }
+}
