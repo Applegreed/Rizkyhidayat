@@ -722,6 +722,10 @@ video {
   margin-bottom: 2rem;
 }
 
+.mr-0 {
+  margin-right: 0px;
+}
+
 .mt-2 {
   margin-top: 0.5rem;
 }
