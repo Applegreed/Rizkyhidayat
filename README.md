@@ -10,9 +10,9 @@ Doc:
 https://tailwindcss.com/
 
 Install
-npm init -y
-npm install -D tailwindcss
-npx tailwindcss init
+1. npm init -y
+2. npm install -D tailwindcss
+3. npx tailwindcss init
 
 Watch
 npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
