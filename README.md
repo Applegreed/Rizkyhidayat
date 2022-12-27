@@ -1,7 +1,7 @@
 # Rizky Hidayat Web Portofolio
 I am a student of DKV Trisakti University class of 2020 who focuses on the field of Multimedia, I study photography, videography, and Graphic Design. This website is used to display the works I have created.
 
-**Prerequisites:**
+## Prerequisites
 - Install Visual Studio Code https://code.visualstudio.com/
 - Install GitHub Desktop https://desktop.github.com/
 - Read Tailwind Documentation https://tailwindcss.com/docs/installation
@@ -10,7 +10,7 @@ I am a student of DKV Trisakti University class of 2020 who focuses on the field
   - Live Preview
   - Tailwind CSS IntelliSense
 
-**Step:**
+## Step
 1. Ikuti prerequisites
 2. Buka GitHub Desktop dan clone repository ini dengan menyalin link repository ini
 
@@ -49,7 +49,7 @@ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
   ![image](https://user-images.githubusercontent.com/55025382/209629791-c5e05773-d22b-427f-88d6-65c1148eaabc.png)
 
 
-**Struktur File**
+## Struktur File
 - dist
   - ```img``` Tempat menaruh seluruh gambar
     - ```clients``` Tempat menaruh gambar clients (saat ini tidak ditampilkan)
@@ -73,7 +73,7 @@ npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 - package.json
 - tailwind.config.js
 
-**Ubah mengubah**
+## Ubah Mengubah
 File yang dapat diubah adalah `index.html`, `narrated.html`, dan `ndandani.html`
 
 Jika ingin menambahkan halaman video, silakan copy salah satu file html di `portofolio` dan paste di folder itu juga (jangan lupa ganti namanya sesuai judul video). Selanjutnya buka `index.html` dan copy line ke `276` hingga `285` dan paste dibawah line `295`. Tinggal edit nama, foto thumbnail, dan linknya.
